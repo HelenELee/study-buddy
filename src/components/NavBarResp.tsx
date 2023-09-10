@@ -53,7 +53,7 @@ const NavBarResp = () => {
            Logout
          </a>
          <a href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
-           New Link !
+           New Link in main repo
          </a>
        </div>
        {/* <div>
